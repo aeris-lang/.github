@@ -1,3 +1,3 @@
 # AERIS Next Generation Programming Language
 
-[AERIS Dev Progress](http://progress.aeris-lang.org)
+[AERIS Overview](http://aeris-lang.org)
